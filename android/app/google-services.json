@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "416690321865",
+    "project_id": "testdriveapp-c2cdf",
+    "storage_bucket": "testdriveapp-c2cdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416690321865:android:7dc77fdcd308ec59e41018",
+        "android_client_info": {
+          "package_name": "com.example.drive_testapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiVjG1rl4m3S_hDZclbd79jpj63AI0_w8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
